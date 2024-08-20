@@ -108,7 +108,7 @@
     "email": "Email",
     "affiliation": "Affiliation",
     "editThesisDialog": "Edit thesis",
-    "uploadWaysOfWorkingButton": "Upload ways of working",
+    "uploadWaysOfWorkingButton": "Upload ways of working (if required by the programme)",
     "uploadResearchPlanButton": "Upload research plan",
     "selectSupervisorPercentage": "Percentage",
     "totalSupervisionPercentage": "Total supervision percentage: {{totalPercentage}} %",
